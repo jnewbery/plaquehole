@@ -20,7 +20,7 @@ So what now for the plaque? Again, Glenn Miller:
 
 Here's the plaque as it is now:
 
-<div class="separator" style="clear: both; text-align: center;"><a href="http://2.bp.blogspot.com/-dIXj1ELr0gw/UAxrFtydNHI/AAAAAAAABDc/CGiyCDcHsUA/s1600/Newbery+plaque+at+PaLA+July+16+2012.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="http://2.bp.blogspot.com/-dIXj1ELr0gw/UAxrFtydNHI/AAAAAAAABDc/CGiyCDcHsUA/s320/Newbery+plaque+at+PaLA+July+16+2012.jpg" width="320" /></a></div>
+->[![Newbery Plaque At PaLA July 16 2012]({{ site.images }}/thumbs/NewberyPlaqueAtPaLAJuly162012.jpg)]({{ site.images.thumbs }}/NewberyPlaqueAtPaLAJuly162012.jpg)<-
 
 (note the brown table. This isn't a black and white image - the plaque has become completely discoloured through mistreatment and weathering)
 

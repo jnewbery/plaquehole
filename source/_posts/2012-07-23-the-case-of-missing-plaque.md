@@ -44,6 +44,8 @@ So what happened to the Plaque next? The story is best taken up by Glenn Miller 
 >
 > *Glenn R. Miller is executive director of PaLA*
 
-<div class="separator" style="clear: both; text-align: center;"><a href="http://1.bp.blogspot.com/-2u023pS-j2Y/UAxmFKP7eEI/AAAAAAAABDI/WbAVWPATOis/s1600/Fulkers.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="213" src="http://1.bp.blogspot.com/-2u023pS-j2Y/UAxmFKP7eEI/AAAAAAAABDI/WbAVWPATOis/s320/Fulkers.png" width="320" /></a></div>
-<div class="separator" style="clear: both; text-align: center;">The London plaque rescuers (l-r): Francesca, Andrew, Julie, and Alexander Fulker</div><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://3.bp.blogspot.com/-MQuKgbVi79Y/UAxmHJMl-RI/AAAAAAAABDQ/FAkiyvu2_Ts/s1600/2010Unveiling.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="173" src="http://3.bp.blogspot.com/-MQuKgbVi79Y/UAxmHJMl-RI/AAAAAAAABDQ/FAkiyvu2_Ts/s320/2010Unveiling.png" width="320" /></a></div>
-<div class="separator" style="clear: both; text-align: center;">Margie Stern, 2010 president (center, behind plaque) accepts the rescued plaque flanked by Rob Lesher, 2011 president (r), Deb Malone, 2012 president (l), and dozens of grateful PaLA members. </div>
+->[![Fulkers]({{ site.images }}/thumbs/Fulkers.jpg)]({{ site.images.thumbs }}/Fulkers.jpg)  
+*The London plaque rescuers (l-r): Francesca, Andrew, Julie, and Alexander Fulker*<-
+
+->[![2010U nveiling]({{ site.images }}/thumbs/2010Unveiling.jpg)]({{ site.images.thumbs }}/2010Unveiling.jpg)  
+*Margie Stern, 2010 president (center, behind plaque) accepts the rescued plaque flanked by Rob Lesher, 2011 president (r), Deb Malone, 2012 president (l), and dozens of grateful PaLA members.*<-
