@@ -34,4 +34,6 @@ I sent my first petition to Boris Johnson, mayor of London on Tuesday 23rd March
 > 
 > John Newbery
 
-<a href="http://3.bp.blogspot.com/_jepd2maNXJs/S6kfaUhS4CI/AAAAAAAAAA0/oJbgkNQ7o3g/s1600-h/John_Newbery_plaque.jpg" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5451923360954114082" src="http://3.bp.blogspot.com/_jepd2maNXJs/S6kfaUhS4CI/AAAAAAAAAA0/oJbgkNQ7o3g/s320/John_Newbery_plaque.jpg" style="display: block; height: 231px; margin: 0px auto 10px; text-align: center; width: 320px;" /></a><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://2.bp.blogspot.com/-6uw9GK824uE/S6jEHvqWFPI/AAAAAAAAAAs/XMLfSMDPdec/s1600/Me_with_the_John_Newbery_plaque.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="211" src="http://2.bp.blogspot.com/-6uw9GK824uE/S6jEHvqWFPI/AAAAAAAAAAs/XMLfSMDPdec/s320/Me_with_the_John_Newbery_plaque.jpg" width="320" /></a></div>
+->[![John Newbery Plaque]({{ site.images_thumbs }}/JohnNewberyPlaque.jpg)]({{ site.images }}/JohnNewberyPlaque.jpg)<-
+
+->[![Me With The John Newbery Plaque]({{ site.images_thumbs }}/MeWithTheJohnNewberyPlaque.jpg)]({{ site.images }}/MeWithTheJohnNewberyPlaque.jpg)<-

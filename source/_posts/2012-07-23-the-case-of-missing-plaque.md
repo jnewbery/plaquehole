@@ -44,8 +44,8 @@ So what happened to the Plaque next? The story is best taken up by Glenn Miller 
 >
 > *Glenn R. Miller is executive director of PaLA*
 
-->[![Fulkers]({{ site.images }}/thumbs/Fulkers.jpg)]({{ site.images.thumbs }}/Fulkers.jpg)  
+->[![Fulkers]({{ site.images_thumbs }}/Fulkers.jpg)]({{ site.images }}/Fulkers.jpg)  
 *The London plaque rescuers (l-r): Francesca, Andrew, Julie, and Alexander Fulker*<-
 
-->[![2010U nveiling]({{ site.images }}/thumbs/2010Unveiling.jpg)]({{ site.images.thumbs }}/2010Unveiling.jpg)  
+->[![2010U nveiling]({{ site.images_thumbs }}/2010Unveiling.jpg)]({{ site.images }}/2010Unveiling.jpg)  
 *Margie Stern, 2010 president (center, behind plaque) accepts the rescued plaque flanked by Rob Lesher, 2011 president (r), Deb Malone, 2012 president (l), and dozens of grateful PaLA members.*<-

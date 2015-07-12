@@ -65,7 +65,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 
 # Images are served from a public dropbox folder
 images: https://dl.dropboxusercontent.com/u/9067036/plaquehole
-images.thumbs: https://dl.dropboxusercontent.com/u/9067036/plaquehole/thumbs
+images_thumbs: https://dl.dropboxusercontent.com/u/9067036/plaquehole/thumbs
 
 # Github repositories
 github_user:

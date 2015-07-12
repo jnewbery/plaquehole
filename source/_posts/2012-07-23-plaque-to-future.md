@@ -20,7 +20,7 @@ So what now for the plaque? Again, Glenn Miller:
 
 Here's the plaque as it is now:
 
-->[![Newbery Plaque At PaLA July 16 2012]({{ site.images }}/thumbs/NewberyPlaqueAtPaLAJuly162012.jpg)]({{ site.images.thumbs }}/NewberyPlaqueAtPaLAJuly162012.jpg)<-
+->[![Newbery Plaque At PaLA July 16 2012]({{ site.images_thumbs }}/NewberyPlaqueAtPaLAJuly162012.jpg)]({{ site.images }}/NewberyPlaqueAtPaLAJuly162012.jpg)<-
 
 (note the brown table. This isn't a black and white image - the plaque has become completely discoloured through mistreatment and weathering)
 
